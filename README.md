@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**MjAbuz/mjabuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Abu Zafar** and this is my ✨ _special_ ✨ repository.
 
 Here are some ideas to get you started:
 
